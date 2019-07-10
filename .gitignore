@@ -24,3 +24,8 @@ sftp-config.json
 
 # Python
 __pycache__
+
+# Internal docs
+/dags
+/plugins
+/pgdata
